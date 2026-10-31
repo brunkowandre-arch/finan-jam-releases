@@ -1,4 +1,4 @@
-# Financeiro Loja Principal: instaladores
+# Instaladores do app financeiro
 
 Este repositório é **público** e guarda **somente os instaladores** do app:
 
